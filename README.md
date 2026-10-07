@@ -30,7 +30,7 @@ The suspended contractor account shows how a blocked sign-in looks.
 
 Dashboard, Alerts, Payments, Employees, Admins, Fraud, Audit Logs. The Admins page also holds the roles and permissions matrix, detection rules, risk configuration and a **data explorer** (SQL and search queries).
 
-## Sales demo features
+## Example Demonstration
 
 Sign in as **Ms. Odette Marchand** (Super Administrator) for the full set. Click **Presenter** in the top bar, or use the keyboard.
 
