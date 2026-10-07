@@ -1,0 +1,12 @@
+{
+  "name": "Veridian Pay",
+  "tagline": "Security Operations",
+  "logo": "logo.svg",
+  "colors": {
+    "brand": "#0f766e",
+    "brand2": "#14b8a6",
+    "accent": "#f5a524",
+    "side": "#0b2e2b",
+    "side2": "#12403c"
+  }
+}
